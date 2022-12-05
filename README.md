@@ -1,8 +1,3 @@
-<h1 align="left">Hi 👋, I'm Aaron</h1>
-<h4 align="left">A junior web developer from Taiwan.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irigyano&label=Profile%20views&color=0e75b6&style=flat" alt="irigyano" /> </p>
-
 <p align="left"> 
 <h2 align="left">Skills</h3>
 <h3>Frontend</h3>
